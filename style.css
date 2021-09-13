@@ -1,0 +1,29 @@
+﻿body {
+}
+
+.column {
+    float: left;
+}
+
+.left, .right {
+    width: 20%;
+}
+
+.middle {
+    width: 60%;
+}
+
+
+.centered {
+    align-items: center;
+    text-align: center;
+}
+
+header {
+    background-color: hsla(0, 0%, 50%, 0.5);
+    font-size: 150%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    padding-left: 10%;
+    padding-right: 10%;
+}
